@@ -59,7 +59,7 @@ def main():
         print("2. Add a youtube video ")
         print("3. Update a youtube video details ")
         print("4. Delete a youtube video ")
-        print("5. Exit the app ")
+        print("5. Exit app ")
         choice = input("Enter your choice: ")
         
         # print(videos)
